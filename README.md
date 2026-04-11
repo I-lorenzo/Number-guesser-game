@@ -12,6 +12,11 @@ This is an interactive **Number Guesser Game** built using HTML, CSS, and JavaSc
 - Scores are updated after each round
 - The game continues with a “Next Round” button
 
+<p align="left">
+Launch the utility: <br/>
+<img src="https://imgur.com/oLq77FE.png" height="80%" width="80%" alt="web"/>
+<br />
+
 ---
 
 ## ⚙️ Technologies Used
